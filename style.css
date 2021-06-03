@@ -1,0 +1,19 @@
+body {
+  overflow: scroll;
+  display: block;
+  background: linear-gradient(to right, grey, brown);
+}
+
+/* .container-fluid {
+  background: linear-gradient(to right, grey, brown);
+  padding: 0;
+  margin: 0;
+} */
+
+#content {
+  margin: 250px 300px;
+  width: 50%;
+  border: 3px solid rgb(54, 58, 59);
+  padding: 10px;
+  text-align: center;
+}
